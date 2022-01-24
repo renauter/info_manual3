@@ -20,7 +20,7 @@ This TFChain v1.0.2 release contain the hot fixes and required patches of TFChai
 
 ## Related Components Releases
 
-### [TFChain Portal v3.0.1.0-b19 
+### TFChain Portal v3.0.1.0-b19 
 
 [**TFChain Portal**](https://github.com/threefoldtech/tfchain_portal) is a front-end web services that allow end-users to interact with the TFChain.
 
