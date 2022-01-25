@@ -9,7 +9,7 @@
 - 3Node phone book, where are the 3Nodes, how much capacity, which farmer
 - ThreeFold Farmer‘s, where are they based, how long active, reputation
 - Smart Contract for IT layer (how to provision workloads on top of ThreeFold Grid), and many more.
-- 
+
 ## Releases
 
 - [TFChain 1.0.0](tfchain_1_0_0)
