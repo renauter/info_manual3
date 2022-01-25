@@ -6,10 +6,10 @@ TFGrid 3.0.0 alpha 1  is now on devnet & testnet. The Planning TFGrid 3.0.0 a2 d
 
 ## Releases
 
-- [TFGrid 3.0.0 Alpha-](tfgrid_3.0.0.a2) - Live on testnet
+- [TFGrid 3.0.0 Alpha-2](tfgrid_3.0.0.a2) - Live on testnet
 - [TFGrid 3.0.0 Alpha-1](tfgrid_3.0.0.a1) - Live on Mainnet
 
-## Product Component 
+## Product Components 
 
 - ZOS 
 - Zinit 

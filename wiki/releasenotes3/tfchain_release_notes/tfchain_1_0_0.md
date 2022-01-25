@@ -13,10 +13,7 @@ This TFChain v1.0.0 release contain the main features requested for the initial 
 	- Upgrading TFChain
 	- Changing farming rewards
 
-### Next Planned Releases:
-- [TFChain v1.0.3 Project](https://github.com/threefoldtech/tfchain/projects/4): Hot Fixes after v1.0.0
-- [TFChain v1.1.0 Project](https://github.com/threefoldtech/tfchain/projects/2): New feature requests, the next main release after v1.0.0
-
+  
 ## Related Components Releases
 
 ### [TFChain Portal v3.0.1-rc1]
@@ -30,7 +27,6 @@ This TFChain v1.0.0 release contain the main features requested for the initial 
 - Fixed activation errors
 - Display bridge deposit / withdraw fees
 - Added "Get more TFT" button when connected to devnet.
-
 
 ### TFChain Explorer v3.0.0-rc19
 
@@ -48,3 +44,5 @@ This TFChain v1.0.0 release contain the main features requested for the initial 
 - Showed online / offline nodes
 - Showed number of available IPs in a farm 
 - Satistics page improvements
+
+

@@ -14,10 +14,6 @@ This TFChain v1.0.2 release contain the hot fixes and required patches of TFChai
 - Consumption Reports
 - Discounts support
 
-### Next Planned Releases:
-- [TFChain v1.0.3 Project](https://github.com/threefoldtech/tfchain/projects/4): Hot Fixes after v1.0.0
-- - [TFChain v1.1.0 Project](https://github.com/threefoldtech/tfchain/projects/2): New feature requests, the next main release after v1.0.0
-
 ## Related Components Releases
 
 ### TFChain Portal v3.0.1.0-b19 
