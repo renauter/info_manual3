@@ -1,4 +1,4 @@
-# ThreeFold Grid Clients (TFGrid Clients) Release Notes
+# TFGrid Clients Release Notes
 
 ## Summary
 
