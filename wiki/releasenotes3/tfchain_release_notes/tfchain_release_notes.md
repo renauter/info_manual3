@@ -1,6 +1,6 @@
 # ThreeFold Chain (TFChain) Release Notes
 
-# Summary
+## Summary
 
 [TFChain](@threefold:threefold__tfchain) is Blockchain-based on Parity Substrate which manages the ThreeFold Grid 3.x. This blockchain is used for:
 
