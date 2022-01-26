@@ -13,7 +13,7 @@
 ## Releases
 
 - [TFChain 1.0.0](tfchain_1_0_0)
-- [TFChain 1.0.0](tfchain_1_0_2) 
+- [TFChain 1.0.2](tfchain_1_0_2) 
 
 ## Product Components
 
