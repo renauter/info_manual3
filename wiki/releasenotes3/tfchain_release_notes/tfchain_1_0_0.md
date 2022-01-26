@@ -16,7 +16,7 @@ This TFChain v1.0.0 release contain the main features requested for the initial 
   
 ## Related Components Releases
 
-### [TFChain Portal v3.0.1-rc1]
+### TFChain Portal v3.0.1-rc1
 
 [**TFChain Portal**](https://github.com/threefoldtech/tfchain_portal) is a front-end web services that allow end-users to interact with the TFChain.
 
